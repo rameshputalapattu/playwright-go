@@ -1,4 +1,4 @@
-module github.com/playwright-community/playwright-go
+module github.com/rameshputalapattu/playwright-go
 
 go 1.19
 
@@ -15,6 +15,7 @@ require (
 	go.uber.org/multierr v1.11.0
 	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842
 )
+replace github.com/playwright-community/playwright-go => github.com/rameshputalapattu/playwright-go
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
