@@ -2,6 +2,8 @@ module github.com/playwright-community/playwright-go
 
 go 1.22
 
+
+
 require (
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/go-jose/go-jose/v3 v3.0.3
